@@ -1,7 +1,7 @@
 # 📄 Privacy Policy
 
 **Battery Logbook – Privacy Policy**  
-*Effective Date: [Insert Date]*
+*Effective Date: 25 April 2025*
 
 Your privacy is important to us. Battery Logbook does not collect or store any personal information on external servers. Here's how we handle your data:
 
@@ -19,7 +19,7 @@ If you have any questions, feel free to contact us at **[Insert Contact Email]**
 # 📜 Terms of Service
 
 **Battery Logbook – Terms of Service**  
-*Effective Date: [Insert Date]*
+*Effective Date: 25 April 2025*
 
 By using Battery Logbook, you agree to the following terms:
 
@@ -45,7 +45,7 @@ If you have any questions about these terms, contact us at **[Insert Contact Ema
 # 📘 End User License Agreement (EULA)
 
 **Battery Logbook – End User License Agreement**  
-*Effective Date: [Insert Date]*
+*Effective Date: 25 April 2025*
 
 This End User License Agreement ("Agreement") is between you and the developer(s) of Battery Logbook. By installing or using the app, you agree to be bound by this Agreement.
 
